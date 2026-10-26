@@ -55,5 +55,3 @@ finally:
     if "conn" in locals() and conn.is_connected(): 
 
         conn.close() 
-
-Guarde los cambios con un Commit.
